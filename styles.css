@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#dropdown-box {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.x-axis-label {
+  font-family: sans-serif;
+  font-size: 0.7em;
+}
+
+.location-label {
+  font-family: sans-serif;
+  font-size: 1em;
+}
